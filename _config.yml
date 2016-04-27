@@ -1,0 +1,28 @@
+name: Robert Blake
+favicon: null
+layout_spectrum: 0.9225639102514833
+typography_spectrum: 0.9686757531017065
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.440729828318581
+  lightness: 0.4409693325869739
+  saturation: 0.6975815109908581
+  rhythmicContrast: 0.32285929122008383
+purpose: []
