@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Robert Blake]]></title>
         <description><![CDATA[Robert Blake]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/robert-blake/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 03:19:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Apr 2016 03:20:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/robert-blake/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8302167b-e102-4b71-b5a1-9adb965efb5c.jpg">]]></description>
+            <link>https://thegrid.ai/robert-blake/3943f88b-f7f5-40de-8688-065660b0128d/index.html</link>
+            <guid isPermaLink="false">3943f88b-f7f5-40de-8688-065660b0128d</guid>
+            <pubDate>Sat, 30 Apr 2016 03:20:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01529041-8300-4205-967e-60ce5038ba60.jpg">]]></description>
-            <link>undefinedthe-office-is-taking-shape/index.html</link>
+            <link>https://thegrid.ai/robert-blake/the-office-is-taking-shape/index.html</link>
             <guid isPermaLink="false">4bf0f7b0-2c02-4b68-8097-881b87b4f1e7</guid>
             <pubDate>Sat, 30 Apr 2016 03:19:45 GMT</pubDate>
         </item>
